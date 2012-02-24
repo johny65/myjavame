@@ -1,0 +1,9 @@
+MIDlet-1: BatallaMidlet,,pkgUI.BatallaMidlet
+MIDlet-Icon: /icono.png
+MIDlet-Jar-Size: 1130724
+MIDlet-Jar-URL: BatallaEspacialME.jar
+MIDlet-Name: Batalla Espacial ME JJ
+MIDlet-Vendor: Johny
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
