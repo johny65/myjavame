@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Johny 6.5 Corp.
+MIDlet-Jar-URL: RaeME.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: RaeMidlet,/rae.png,pkgMain.RaeMidlet
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: Diccionario RAE

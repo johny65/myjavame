@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Johny 6.5 Corp.
+MIDlet-Jar-URL: NotasJJ.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Notas JJ,,pkgMain.NotasMidlet
+MIDlet-Name: Notas JJ
