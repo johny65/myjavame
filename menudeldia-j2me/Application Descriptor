@@ -1,0 +1,7 @@
+MIDlet-Version: 1.2
+MIDlet-Vendor: Johny 6.5 Corp.
+MIDlet-Jar-URL: menudeldia.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Menu,,pkgMain.Menu
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: Menú del Día
