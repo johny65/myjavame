@@ -1,8 +1,0 @@
-MIDlet-1: RaeMidlet,/rae.png,pkgMain.RaeMidlet
-MIDlet-Jar-Size: 8483
-MIDlet-Jar-URL: RaeME.jar
-MIDlet-Name: Diccionario RAE
-MIDlet-Vendor: Johny 6.5 Corp.
-MIDlet-Version: 1.0.0
-MicroEdition-Configuration: CLDC-1.1
-MicroEdition-Profile: MIDP-2.0
